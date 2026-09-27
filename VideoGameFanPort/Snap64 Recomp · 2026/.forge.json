@@ -12,7 +12,7 @@
   ],
   "builds": [
     {
-      "versions": ["1.0.2", "1.0.3", "1.0.4", "1.0.5", "1.0.6", "1.0.7", "1.0.8", "1.0.9"],
+      "versions": ["1.0.2", "1.0.3", "1.0.4", "1.0.5", "1.0.6", "1.0.7", "1.0.8", "1.0.9", "1.1.0"],
       "targetPlatforms": {
         "Windows": { "slug": "win64", "archiveExt": "zip", "executable": "Snap64Recomp.exe" },
         "Linux": { "slug": "linux-x86_64", "archiveExt": "tar.gz", "executable": "Snap64Recomp" }
